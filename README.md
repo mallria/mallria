@@ -1,5 +1,3 @@
-Mallria is an open-source ERP system based on the Laravel framework, designed to provide a comprehensive business management solution. Our commitment is to create a powerful, flexible, and user-friendly platform that caters to the diverse needs of businesses of all sizes.
-
 # Mallria - Open-Source ERP System
 
 Mallria is a versatile open-source ERP system built on the Laravel framework, offering a comprehensive suite of business management tools. Whether you are a small business or a large enterprise, Mallria provides a flexible and scalable solution to streamline your operations.
